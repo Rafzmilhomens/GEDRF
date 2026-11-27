@@ -1,5 +1,5 @@
 ![GEDRF](/img/GEDRF_ICON.jpg)
-*Descrição da imagem: estrela de seis pontas azul escura sobre um fundo branco*
+*Descrição da imagem: uma estrela de seis pontas azul escura sobre um fundo branco*
 # GEDRF
 Grupo De Estudos E Desenvolvimento De Roteiros Do Fediverso
 
