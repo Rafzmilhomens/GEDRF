@@ -7,10 +7,10 @@ Supõe-se boa disposição para ler, comentar os projetos dos outros colegas e r
 
 Para escrever conosco, fazer o seguinte:
 
--Grupo do Signal (entre):
-  https://signal.group/#CjQKII77Bv7jGjp2oB8WD1ykbaT3qFFX_qt3MIKpb7CTm-P_EhBKiu62qS6BcQmpKCTP720Q
+-[Grupo do Signal](https://signal.group/#CjQKII77Bv7jGjp2oB8WD1ykbaT3qFFX_qt3MIKpb7CTm-P_EhBKiu62qS6BcQmpKCTP720Q) (Clique para entrar)
+  
 
--Lista de e-mails (envie um e-mail para ser adicionado):
+-Lista de e-mails (envie um e-mail para o endereço abaixo):
 
 gedrf@googlegroups.com
 
